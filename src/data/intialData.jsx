@@ -10,15 +10,15 @@ export const initialEmployees = [
   {
     id: 2,
     firstName: "Alok",
-    email: "employee2@example.com",
-    password: "123",
+    email: "Alok@gmail.com",
+    password: "1234",
     tasks: []
   },
   {
     id: 3,
     firstName: "Minu",
-    email: "employee3@example.com",
-    password: "123",
+    email: "Minu@gmail.com",
+    password: "12345",
     tasks: []
   }
 ];
